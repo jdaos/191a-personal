@@ -41,18 +41,27 @@ Nonfunctional Requirements:
 
 
 <b>What other work do we need to do deliver the final product?</b>
-
++ All team members need to continue brushing up on our Ruby, Javascript, HTML, and CSS coding skills.
++ We also need to conduct user testing to get feedback from users.
++ Continue meeting with our sponsors to receive their feedback and to update them on our progress throughout the summer and fall.
 
 <b>Are there some requirements for the final product that are not yet clear?</b><br>
 No, none as of right now.<br>
 
-<b>What is the most important work to do to make progress on delivering the final product?</b>
+<b>What is the most important work to do to make progress on delivering the final product?</b><br>
++ Advancing our Ruby, JavaScript, HTML, and CSS skills as a whole team.
 
-<b>What skills are needed to do this work?</b>
+<b>What skills are needed to do this work?</b><br>
+Ruby, JavaScript, HTML, and CSS.
 
 <b>Who in the team has these skills? Who does not?</b>
++ Ruby: All team members, but still basic.
++ JavaScript: Dillon and Vamsi (some). <i>Jazmynn, Kyla, and Wilbur have no experience</i>
++ HTML: All team members, but still basic.
++ CSS: All team members, but still basic.
 
-<b>How can those on our team without these skills get them?</b>
+<b>How can those on our team without these skills get them?</b><br>
+Continue reading tutorials, watching videos, etc. on Ruby, JavaScript, HTML, and CSS.
 
 ## Timeline
 <b>SUMMER</b>
@@ -64,16 +73,16 @@ No, none as of right now.<br>
 + <b>[6] 7/20-7/26:</b> Conduct user testing, Make adjustments
 + <b>[7] 7/27-8/2:</b> Clean up aesthetics, Prepare for deployment
 + <b>[8] 8/3-8/6:</b> Create documentation, Make final adjustments, Release initial product to med students
-+ <b>8/7-9/30:</b> Continue learning Ruby, HTML, and CSS
-<b>FALL</b>
-+ <b>[0] 10/1-10/4:</b> 
-+ <b>[1] 10/5-10/11:</b> 
-+ <b>[2] 10/12-10/18:</b> 
-+ <b>[3] 10/19-10/25:</b> 
-+ <b>[4] 10/26-11/1:</b>
-+ <b>[5] 11/2-11/8:</b> 
-+ <b>[6] 11/9-11/15:</b> 
-+ <b>[7] 11/16-11/22:</b> 
-+ <b>[8] 11/23-11/29:</b> 
-+ <b>[9] 11/30-12/6:</b>
-+ <b>[10] 12/7-12/13:</b> 
++ <b>[ ] 8/7-9/30:</b> Continue learning Ruby, HTML, and CSS
+<b>FALL</b> <i>(Still VERY basic, our team has not thought this far in detail yet.)
++ <b>[0] 10/1-10/4:</b> Implement moderator user interfaces, accounts, and features.
++ <b>[1] 10/5-10/11:</b> Implement moderator user interfaces, accounts, and features.
++ <b>[2] 10/12-10/18:</b> Implement moderator user interfaces, accounts, and features.
++ <b>[3] 10/19-10/25:</b> Implement moderator user interfaces, accounts, and features.
++ <b>[4] 10/26-11/1:</b> Implement moderator user interfaces, accounts, and features.
++ <b>[5] 11/2-11/8:</b> Implement moderator user interfaces, accounts, and features.
++ <b>[6] 11/9-11/15:</b> Implement moderator user interfaces, accounts, and features.
++ <b>[7] 11/16-11/22:</b> Implement moderator user interfaces, accounts, and features.
++ <b>[8] 11/23-11/29:</b> Implement moderator user interfaces, accounts, and features.
++ <b>[9] 11/30-12/6:</b>Implement moderator user interfaces, accounts, and features.
++ <b>[10] 12/7-12/13:</b> Implement moderator user interfaces, accounts, and features.
